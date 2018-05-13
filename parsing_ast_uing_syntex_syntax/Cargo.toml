@@ -1,0 +1,7 @@
+[package]
+name = "parsing_ast_uing_syntex_syntax"
+version = "0.1.0"
+authors = ["eonil <drawtree@gmail.com>"]
+
+[dependencies]
+syntex_syntax = "0.59.1"
